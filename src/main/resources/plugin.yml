@@ -1,0 +1,10 @@
+name: McMan
+version: '1.0'
+description: This plugin is a client for a server managment tool.
+author: MrManiac
+
+main: me.raynorjames.MCMan
+database: false
+commands:
+  mcman:
+    description: The main command for MCMan
